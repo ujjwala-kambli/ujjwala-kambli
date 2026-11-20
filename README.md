@@ -44,6 +44,12 @@
 
 ---
 
+## 🤝 Collaborative Projects
+
+- [Khare Electrans](https://github.com/admin-datagenix/khare-electrans)
+- [Khilare & Associates](https://github.com/admin-datagenix/Khilare-and-Associates)
+- [Architectural Wooden Website](PASTE_REPOSITORY_LINK_HERE)
+
 ### 📊 GitHub Statistics
 
 <p align="center">
