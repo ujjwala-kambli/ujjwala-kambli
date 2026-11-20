@@ -48,7 +48,7 @@
 
 - [Khare Electrans](https://github.com/admin-datagenix/khare-electrans)
 - [Khilare & Associates](https://github.com/admin-datagenix/Khilare-and-Associates)
-- [Architectural Wooden Website](PASTE_REPOSITORY_LINK_HERE)
+- [Architectural Wooden Website](https://github.com/admin-datagenix/architectural-wooden-demo-web.git)
 
 ### 📊 GitHub Statistics
 
